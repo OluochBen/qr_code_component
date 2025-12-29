@@ -14,11 +14,12 @@ An alternate take on the QR component challenge with a neon, glassy card and lay
 
 ## Overview
 ### Screenshot
-_Not captured yet. Open `index.html` in the browser to view the current UI._
+![QR Portal Card screenshot](./images/screenshot.png)
 
 ### Links
 - Live preview: _open `index.html` locally_
 - Profile target: https://github.com/OluochBen
+- Favicon: `./images/favicon-32x32.png`
 
 ## My process
 ### Built with
